@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">P02 Problem Statement</string>
+    <array name='homepage'>
+        <item>Secular</item>
+        <item>Ethnic and Religion</item>
+
+    </array>
+
+
+</resources>
